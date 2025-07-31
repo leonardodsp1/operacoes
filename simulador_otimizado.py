@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 SIMULADOR OTIMIZADO DE INVESTIMENTOS v4.1
-Layout eficiente sem scroll + todas as modalidades + RELATÓRIO DETALHADO + ATUALIZAÇÃO AUTOMÁTICA
 """
 
 import tkinter as tk
